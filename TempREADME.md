@@ -1,4 +1,4 @@
-Team B edited here
+Team A conflict version
 
 This is a test readme file for Lab 6.
 
